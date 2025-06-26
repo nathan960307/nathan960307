@@ -58,23 +58,13 @@
   <br>
   
 **💻 Project**
-- [HARU](https://github.com/eonwy/NBE5-6-3-Team7) – A web service that allows users to write daily journals and interact with an AI character ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
-- [Grids&Circle](https://github.com/eonwy/NBE5-6-1-Team07) – A coffee bean order management system ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
-- [Musically](https://github.com/music-ally/music-ally-server) – A web platform for discovering and discussing musicals (29th SOLUX project) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
-- [LivingMate](https://github.com/LivingMate/LivingMate-Server) – A group living facilitator for shared household management (Graduation project) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
-- [FaceEmotionRecognition](https://github.com/eonwy/FaceEmotionRecognition.git) – A team project that analyzes facial expressions to detect human emotions
-- [Seoul_ParkingLot](https://github.com/eonwy/parkinglot) – A project visualizing parking congestion in Seoul using public data (Data Utilization Competition)
-
+- 추가 예정 
 <br>
 
 **🧩 Experience**
 - **Programmers Devcourse 5th Backend Part** (2025.03 ~)
-- **Mintech Intership** (2024.07 ~ 2024.12)
-- **SOLUX 29th BackEnd Part** (2024.03 ~ 2024.09)
 <br>
 
 **🧑‍💻 Link**
+- 추가 예정정
 
-[![Notion](https://img.shields.io/badge/resume-000000?style=plastic&logo=Notion&logoColor=white)](https://agreeable-music-390.notion.site/Yeawon-Kim-1b07e2574bbe4bc2b1db0ea2da8baf49?pvs=4)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://eonwy.tistory.com/)](https://eonwy.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:yeawon6566@gmail.com)](mailto:yeawon6566@gmail.com)
