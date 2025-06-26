@@ -56,14 +56,3 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white" alt="Figma">
 
 </div>
-
-
-
-<h2>🤔 Github Stats</h2>
-<a href="https://github.com/0802222/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathan960307" alt="GitHub Stats">
-</a>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan960307&layout=compact" alt="Top Languages">
-
-
