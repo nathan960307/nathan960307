@@ -4,7 +4,7 @@
 </div>
 
 <blockquote>
-  chorong lee <br> IT Engineering
+  nathan kim <br> IT Engineering
 </blockquote>
 
 <h2> Tech Stacks</h2>
