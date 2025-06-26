@@ -4,7 +4,7 @@
 </div>
 
 <blockquote>
-  nathan kim <br> IT Engineering
+  chorong lee <br> IT Engineering
 </blockquote>
 
 <h2> Tech Stacks</h2>
@@ -13,7 +13,6 @@
 
   <p style="font-size:8px; color:gray;">Server / Framework</p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white" alt="Node.js">
   <br><br>
 
   <p style="font-size:8px; color:gray;">ORM</p>
@@ -30,22 +29,11 @@
   <p style="font-size:8px; color:gray;">Languages</p>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" alt="Python">
   <br><br>
 
   <p style="font-size:8px; color:gray;">Data</p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white" alt="MariaDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white" alt="MongoDB">
-  <br><br>
-
-  <p style="font-size:8px; color:gray;">Library</p>
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white" alt="Tensorflow">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=plastic&logo=Google&logoColor=white" alt="Google Gemini">
   <br><br>
 
   <p style="font-size:8px; color:gray;">Infra</p>
