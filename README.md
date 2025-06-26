@@ -12,21 +12,17 @@
   <br>
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
-  ![express](https://img.shields.io/badge/express-%23000000?style=plastic&logo=express&logoColor=white)
-  ![Sveltekit](https://img.shields.io/badge/SvelteKit-FF3E00?style=plastic&logo=Svelte&logoColor=white)
 
 - ORM  
   <br>
   ![JPA (Hibernate)](https://img.shields.io/badge/JPA--Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white)
   ![MyBatis](https://img.shields.io/badge/MyBatis-005B9F?style=plastic)
   ![QueryDSL](https://img.shields.io/badge/QueryDSL-6C33B9?style=plastic&logo=openjdk&logoColor=white)
-  ![Mongoose](https://img.shields.io/badge/Mongoose-F04D35?style=plastic&logo=Mongoose&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white)
-  ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=plastic&logo=TypeORM&logoColor=white)
-
+  
 - AI  
   <br>
   ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=plastic&logo=Google&logoColor=white)
+  챗지피티 사용 장인(챗지피티 본인이 인정함)
 
 - Infra / Communication  
   <br>
