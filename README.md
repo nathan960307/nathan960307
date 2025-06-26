@@ -2,11 +2,18 @@
 
 > nathan kim <br> IT Engineering
 <br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+
+
 
 **🤔 Github Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan960307)](https://github.com/0802222/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan960307&layout=compact)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **🛠️ Tech Stacks**
 - Library  
@@ -63,7 +70,7 @@
   ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
   <br>
-  
+
 **💻 Project**
 - 추가 예정 
 <br>
@@ -74,4 +81,5 @@
 
 **🧑‍💻 Link**
 - 추가 예정
+<br>
 
