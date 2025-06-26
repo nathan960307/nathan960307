@@ -1,9 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome!!&fontSize=90) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontSize=90) 
 
 > nathan kim <br> IT Engineering
 <br>
 
+**🤔 Github Stats**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan960307)](https://github.com/0802222/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan960307&layout=compact)
+
 **🛠️ Tech Stacks**
+- Library  
+  <br>
+
+- Framework  
+  <br>
+  
+
+
 - Prototyping  
   <br>
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white)
@@ -22,12 +35,11 @@
 - AI  
   <br>
   ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=plastic&logo=Google&logoColor=white)
-  챗지피티 사용 장인(챗지피티 본인이 인정함)
+  <br>챗지피티 사용 장인(챗지피티 본인이 인정함)
 
 - Infra / Communication  
   <br>
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=Redis&logoColor=white)
-  ![SMTP](https://img.shields.io/badge/SMTP-FFA500?style=plastic&logo=gmail&logoColor=white)
 
 - Data  
   <br>
@@ -43,8 +55,7 @@
   <br>
   ![JSP](https://img.shields.io/badge/JSP-0074A6?style=plastic&logo=openjdk&logoColor=white)
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=Thymeleaf&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=Svelte&logoColor=white)
-  
+ 
 - Languages  
   <br>
   ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white)
@@ -62,5 +73,5 @@
 <br>
 
 **🧑‍💻 Link**
-- 추가 예정정
+- 추가 예정
 
