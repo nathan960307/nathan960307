@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <code style="color: gray; font-size: 18px;">nathan kim</code>
+  <code style="color: gray; font-size: 18px;">Nya~ than kim</code>
 </div><br>
 
 <div align="center">
