@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <code style="color: gray; font-size: 18px;">Nya~/code>
+  <code style="color: gray; font-size: 18px;">Nya~</code>
 </div><br>
 
 <div align="center">
