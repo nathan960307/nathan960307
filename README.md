@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=30&pause=1000&color=F7526F&background=FFF5E600&center=true&multiline=true&random=true&width=442&height=64&lines=Welcome+to+My+Space" alt="Typing SVG" />
+</div>
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d6976600-796b-4c6c-bcd0-2a2761313bf1" width="200"/>
@@ -39,3 +43,39 @@
   <br>
 </div>
 
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 지표
+</summary><br>
+  <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nathan960307&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan960307&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathan960307&theme=tokyonight" alt="GitHub Streak" />
+  </div>
+</details>
+
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 프로젝트
+</summary><br>
+  추가예정
+
+</details>
+
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 경력
+</summary><br>
+  없는데용?
+
+</details>
+  
+
+</details>
