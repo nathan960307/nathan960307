@@ -69,32 +69,50 @@
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 프로젝트
 </summary><br>
-  1차 프로젝트 – 카페 메뉴 관리 서비스
-Spring과 MyBatis를 활용해 메뉴 CRUD 기능과 DB 연동을 구현했습니다.
-이를 통해 웹 서비스의 기본 구조와 데이터 흐름을 이해하며 백엔드 개발의 기초를 다질 수 있었습니다.
+ # Portfolio Projects
 
-- 사용 기술: Spring, MyBatis, JSP, MySQL, Git
-- 담당 역할: 메뉴 CRUD 기능, DB 연동
+---
 
-2차 프로젝트 – TODO-RPG 서비스
-Spring Boot와 JPA 기반으로 목표·할일(Goal/Todo) 관리 기능을 구현하고, Thymeleaf 기반 화면과 연동을 담당했습니다. 기획부터 구현까지의 사이클을 직접 경험하며 객체지향적인 설계와 데이터 처리 감각을 키웠습니다.
+## 1차 프로젝트 – 카페 메뉴 관리 서비스  
+Spring과 MyBatis를 활용해 메뉴 CRUD 기능과 DB 연동을 구현했습니다.  
+이를 통해 웹 서비스의 기본 구조와 데이터 흐름을 이해하며 백엔드 개발의 기초를 다질 수 있었습니다.  
+[GitHub Repository](https://github.com/prgrms-be-devcourse/NBE5-6-1-Team03)
 
-- 사용 기술: Spring Boot, JPA, Thymeleaf, MySQL, Git
-- 담당 역할: Goal/Todo CRUD 구현, 화면 연동
+- **사용 기술**: Spring, MyBatis, JSP, MySQL, Git  
+- **담당 역할**: 메뉴 CRUD 기능, DB 연동  
 
-3차 프로젝트 – TODO-RPG 고도화
-기존 서비스를 고도화하며 달력(Calendar) 기능을 추가하여 목표·할일을 날짜 단위로 관리할 수 있도록 개선했습니다.
-또한 프로그래머스/백준 문제를 크롤링 하는 프로그램을 만들어  추천 문제를 TODO로 등록하고 완료 여부를 체크할 수 있는 기능을 구현했으며, 수정·삭제 및 상태 관리 기능을 보완했습니다.
+---
 
-- 사용 기술: Spring Boot, JPA, Thymeleaf, MySQL, Selenium, Git
-- 담당 역할: Calendar 기능 구현, 프로그래머스 문제 크롤링/등록 기능, Todo 상태 관리
+## 2차 프로젝트 – TODO-RPG 서비스  
+Spring Boot와 JPA 기반으로 목표·할일(Goal/Todo) 관리 기능을 구현하고,  
+Thymeleaf 기반 화면과 연동을 담당했습니다.  
+기획부터 구현까지의 사이클을 직접 경험하며 객체지향적인 설계와 데이터 처리 감각을 키웠습니다.  
+[GitHub Repository](https://github.com/prgrms-be-devcourse/NBE5-6-2-Team04)
 
-4차 최종 프로젝트 – MAPICK (팀장 / 백엔드 총괄)
-지도 기반 커뮤니티 플랫폼인 MAPICK 프로젝트에서는 **총 9명(백엔드 5명, 프론트엔드 4명)**이 함께 참여했으며, 저는 백엔드 5명 팀의 팀장으로서 아키텍처 설계를 주도하고 백엔드 전반을 담당했습니다.
-JWT + OAuth2 기반 인증 서버를 구축하고, GCP 환경에 Docker 기반 배포를 진행했으며, 프론트엔드·백엔드 간 API 명세와 통합 과정을 조율했습니다. 이를 통해 단순한 기능 구현을 넘어, 백엔드 팀 리딩과 협업 조율, 서비스 수준의 배포 경험까지 쌓을 수 있었습니다.
+- **사용 기술**: Spring Boot, JPA, Thymeleaf, MySQL, Git  
+- **담당 역할**: Goal/Todo CRUD 구현, 화면 연동  
 
-- 사용 기술: Spring Boot, JPA, JWT, OAuth2, Docker, GCP, GitHub
-- 담당 역할: 아키텍처 설계,회원 관련 API 구현(가입/로그인/회원정보 관리), 인증 서버(JWT+OAuth2) 구현, Docker·GCP 배포, API 명세 관리 및 협업 리딩
+---
+
+## 3차 프로젝트 – TODO-RPG 고도화  
+기존 서비스를 고도화하며 **달력(Calendar) 기능**을 추가, 날짜 단위로 목표·할일 관리 가능하도록 개선했고,  
+프로그래머스/백준 문제 크롤링 기능을 넣어 추천 문제를 TODO에 등록하고 완료 여부 체크도 구현했습니다.  
+[GitHub Repository](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04)
+
+- **사용 기술**: Spring Boot, JPA, Thymeleaf, MySQL, Selenium, Git  
+- **담당 역할**: Calendar 기능 구현, 문제 크롤링/등록, Todo 상태 관리  
+
+---
+
+## 4차 최종 프로젝트 – MAPICK (팀장 / 백엔드 총괄)  
+지도 기반 커뮤니티 플랫폼 MAPICK 프로젝트에서 **백엔드 팀장(5명)**으로 아키텍처 설계를 진행하고 주요 기능을 개발했습니다.  
+JWT + OAuth2 인증 서버와 회원 관련 API를 구현, GCP 환경에 Docker 기반 배포를 수행했으며,  
+프론트와 API 통합과 협업을 조율했습니다. 서비스 수준의 백엔드 리딩 경험을 쌓을 수 있었습니다.  
+[GitHub Repository](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_GitSunJaeAb_BE)
+
+- **사용 기술**: Spring Boot, JPA, JWT, OAuth2, Docker, GCP, GitHub  
+- **담당 역할**: 백엔드 아키텍처 설계, 회원 API/인증 서버 구현, Docker·GCP 배포, 협업 리딩  
+
 
 </details>
 
