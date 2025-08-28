@@ -54,22 +54,22 @@
   <tr>
     <td align="center">
       <h4>🍵 카페 메뉴 관리</h4>
-      <p>Spring + MyBatis 기반 CRUD 학습</p>
-      <p>2025.04.22 → 2025.04.30</p>
-      <a href="https://github.com/prgrms-be-devcourse/NBE5-6-1-Team03">Repo</a>
+      <p>로컬 카페 메뉴 주문/관리 웹 서비스</p>
+      <p>2025.04.22 → 2025.04.28</p>
+      <a href="https://github.com/prgrms-be-devcourse/NBE5-6-1-Team03">GitHub</a>
     </td>
     <td align="center">
       <h4>🎮 TODO-RPG</h4>
-      <p>Spring Boot + JPA 목표/할일 (v1 → v2 고도화)</p>
-      <p>2025.04.30 → 2025.06.19</p>
-      <a href="https://github.com/prgrms-be-devcourse/NBE5-6-2-Team04">Repo v1</a> · 
-      <a href="https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04">Repo v2</a>
+      <p>목표/할일 관리에 RPG 요소를 적용한 성장 관리 서비스</p>
+      <p>2025.05.30→ 2025.06.19</p>
+      <a href="https://github.com/prgrms-be-devcourse/NBE5-6-2-Team04">GitHub v1</a> · 
+      <a href="https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04">GitHub v2</a>
     </td>
     <td align="center">
       <h4>🗺 MAPICK</h4>
-      <p>지도 기반 커뮤니티 (BE5/FE5, 팀장)</p>
-      <p>2025 — 진행 중</p>
-      <a href="https://github.com/prgrms-web-devcourse-final-project/WEB5_6_GitSunJaeAb_BE">Repo</a>
+      <p>사용자 맞춤 지도 공유/커뮤니티 플랫폼</p>
+      <p>2025.06.26→ 2025.07.31</p>
+      <a href="https://github.com/prgrms-web-devcourse-final-project/WEB5_6_GitSunJaeAb_BE">GitHub</a>
     </td>
   </tr>
 </table>
