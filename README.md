@@ -72,7 +72,7 @@
       <br>
       <hr>
       <p>
-        <a href="https://github.com/nathan960307/project-readme/todo-rpg">자세히 보기</a>
+        <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/todo-rpg">자세히 보기</a>
       </p>
     </td>
     <td align="center" width="300" valign="top">
@@ -83,7 +83,7 @@
       <br><br>
       <hr>
       <p>
-        <a href="https://github.com/nathan960307/project-readme/mapick">자세히 보기</a>
+        <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/mapick">자세히 보기</a>
       </p>
     </td>
   </tr>
