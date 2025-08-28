@@ -49,6 +49,7 @@
 
 
 <h3>💻 Projects</h3>
+<h2>공사중....</h2>
 
 <table>
   <tr>
@@ -59,8 +60,15 @@
       <sub>2025.04.22 → 2025.04.28</sub>
       <br><br>
       <hr>
+      <!-- 기술 스택 -->
       <p>
-        <!-- cafe-menu -->
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MyBatis-005B9F?style=flat"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      </p>
+      <hr>
+      <p>
         <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/cafe-menu">자세히 보기</a>
       </p>
     </td>
@@ -71,6 +79,14 @@
       목표/할일 관리에 RPG 요소를 적용한 성장 관리 서비스<br>
       <sub>2025.05.30 → 2025.06.19</sub>
       <br>
+      <hr>
+      <!-- 기술 스택 -->
+      <p>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      </p>
       <hr>
       <p>
         <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/todo-rpg">자세히 보기</a>
@@ -83,6 +99,16 @@
       사용자 맞춤 지도 공유/커뮤니티 플랫폼<br>
       <sub>2025.06.26 → 2025.07.31</sub>
       <br><br>
+      <hr>
+       <!-- 기술 스택 -->
+      <p>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+      </p>
       <hr>
       <p>
         <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/mapick">자세히 보기</a>
