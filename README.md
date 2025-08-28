@@ -99,7 +99,7 @@ Thymeleaf 기반 화면과 연동을 담당했습니다.
 프로그래머스/백준 문제 크롤링 기능을 넣어 추천 문제를 TODO에 등록하고 완료 여부 체크도 구현했습니다.  
 [GitHub Repository](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04)
 
-- **사용 기술**: Spring Boot, JPA, Thymeleaf, MySQL, Selenium, Git  
+- **사용 기술**: Spring Boot, JPA, Thymeleaf, MySQL, Git  
 - **담당 역할**: Calendar 기능 구현, 문제 크롤링/등록, Todo 상태 관리  
 
 ---
