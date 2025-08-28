@@ -60,7 +60,7 @@
       <br><br>
       <hr>
       <p>
-        <a href="https://github.com/nathan960307/project-readme/cafe-menu">자세히 보기</a>
+        <a href="https://github.com/nathan960307/project-readme/tree/main/cafe-menu">자세히 보기</a>
       </p>
     </td>
     <td align="center" width="300" valign="top">
