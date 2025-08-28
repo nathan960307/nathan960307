@@ -50,26 +50,44 @@
 
 <h3>💻 Projects</h3>
 
-<table>
+<table border="1" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center">
+    <!-- 카드 1 -->
+    <td align="center" width="300">
       <h4>🍵 카페 메뉴 관리</h4>
+      <hr>
       <p>로컬 카페 메뉴 주문/관리 웹 서비스</p>
       <p>2025.04.22 → 2025.04.28</p>
-      <a href="https://github.com/prgrms-be-devcourse/NBE5-6-1-Team03">GitHub</a>
+      <hr>
+      <p>
+        <a href="https://github.com/prgrms-be-devcourse/NBE5-6-1-Team03">GitHub</a><br>
+        <a href="https://github.com/nathan960307/project-readme/tree/main/cafe-menu">자세히 보기</a>
+      </p>
     </td>
-    <td align="center">
+    <!-- 카드 2 -->
+    <td align="center" width="300">
       <h4>🎮 TODO-RPG</h4>
+      <hr>
       <p>목표/할일 관리에 RPG 요소를 적용한 성장 관리 서비스</p>
-      <p>2025.05.30→ 2025.06.19</p>
-      <a href="https://github.com/prgrms-be-devcourse/NBE5-6-2-Team04">GitHub v1</a> · 
-      <a href="https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04">GitHub v2</a>
+      <p>2025.05.30 → 2025.06.19</p>
+      <hr>
+      <p>
+        <a href="https://github.com/prgrms-be-devcourse/NBE5-6-2-Team04">GitHub v1</a> · 
+        <a href="https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04">GitHub v2</a><br>
+        <a href="https://github.com/nathan960307/project-readme/tree/main/todo-rpg">자세히 보기</a>
+      </p>
     </td>
-    <td align="center">
+    <!-- 카드 3 -->
+    <td align="center" width="300">
       <h4>🗺 MAPICK</h4>
+      <hr>
       <p>사용자 맞춤 지도 공유/커뮤니티 플랫폼</p>
-      <p>2025.06.26→ 2025.07.31</p>
-      <a href="https://github.com/prgrms-web-devcourse-final-project/WEB5_6_GitSunJaeAb_BE">GitHub</a>
+      <p>2025.06.26 → 2025.07.31</p>
+      <hr>
+      <p>
+        <a href="https://github.com/prgrms-web-devcourse-final-project/WEB5_6_GitSunJaeAb_BE">GitHub</a><br>
+        <a href="https://github.com/nathan960307/project-readme/tree/main/mapick">자세히 보기</a>
+      </p>
     </td>
   </tr>
 </table>
