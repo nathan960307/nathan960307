@@ -65,6 +65,7 @@
       </p>
     </td>
     <td align="center" width="300" valign="top">
+      <img src="https://github.com/nathan960307/nathan960307/blob/main/images/DevQuestLogo.png?raw=true" width="120"><br>
       <b>🎮 TODO-RPG</b>
       <hr>
       목표/할일 관리에 RPG 요소를 적용한 성장 관리 서비스<br>
@@ -76,6 +77,7 @@
       </p>
     </td>
     <td align="center" width="300" valign="top">
+      <img src="https://github.com/nathan960307/nathan960307/blob/main/images/MAPICKLogo.png?raw=true" width="120"><br>
       <b>🗺 MAPICK</b>
       <hr>
       사용자 맞춤 지도 공유/커뮤니티 플랫폼<br>
