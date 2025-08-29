@@ -47,16 +47,23 @@
   <br>
 </div>
 
+<h3>💻 Experience</h3>
+- Programmers Devcourse 5th – Backend Track (2025.02 ~ 2025.08)  <br>
+- IBM Korea – System Engineer (2020.12 ~ 2024.08)  
 
 <h3>💻 Projects</h3>
-<h2>공사중....</h2>
+<h2>대표작</h2>
 
 <table>
   <tr>
     <td align="center" width="300" valign="top">
       <b>🍵 카페 메뉴 관리</b>
+      <p>
+        <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/cafe-menu">보기</a>
+      </p>
       <hr>
-      로컬 카페 메뉴 주문/관리 웹 서비스<br>
+      로컬 카페 메뉴 주문/관리 웹 서비스
+      <br>
       <sub>2025.04.22 → 2025.04.28</sub>
       <br><br>
       <hr>
@@ -66,15 +73,15 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/MyBatis-005B9F?style=flat"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-      </p>
-      <hr>
-      <p>
-        <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/cafe-menu">자세히 보기</a>
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"
       </p>
     </td>
     <td align="center" width="300" valign="top">
-      <img src="https://github.com/nathan960307/nathan960307/blob/main/images/DevQuestLogo.png?raw=true" width="120"><br>
       <b>🎮 TODO-RPG</b>
+      <p>
+        <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/todo-rpg">보기</a>
+      </p>
       <hr>
       목표/할일 관리에 RPG 요소를 적용한 성장 관리 서비스<br>
       <sub>2025.05.30 → 2025.06.19</sub>
@@ -84,17 +91,19 @@
       <p>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-      </p>
-      <hr>
-      <p>
-        <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/todo-rpg">자세히 보기</a>
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
       </p>
     </td>
     <td align="center" width="300" valign="top">
-      <img src="https://github.com/nathan960307/nathan960307/blob/main/images/MAPICKLogo.png?raw=true" width="120"><br>
       <b>🗺 MAPICK</b>
+      <p>
+        <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/mapick">보기</a>
+      </p>
       <hr>
       사용자 맞춤 지도 공유/커뮤니티 플랫폼<br>
       <sub>2025.06.26 → 2025.07.31</sub>
@@ -104,27 +113,21 @@
       <p>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-      </p>
-      <hr>
-      <p>
-        <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/mapick">자세히 보기</a>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
       </p>
     </td>
   </tr>
 </table>
 
-
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Experience
-</summary><br>
-  - Programmers Devcourse 5th – Backend Track (2025.02 ~ 2025.08)  <br>
-  - IBM Korea – System Engineer (2020.12 ~ 2024.08)  
-</details>
 
 <details>
 <summary>
