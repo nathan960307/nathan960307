@@ -105,7 +105,7 @@
       </p>
     </td>
     <td align="center" width="300" valign="top">
-      <b>🗺 MAPICK</b>
+      <b>🗺 MAPICK -> SUBAK</b>
       <p>
         <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/mapick">보기</a>
       </p>
