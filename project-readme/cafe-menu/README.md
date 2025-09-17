@@ -5,7 +5,7 @@
 
 ### 링크  
 - [GitHub](https://github.com/prgrms-be-devcourse/NBE5-6-1-Team03)  
-- [일정 관리](https://trello.com/b/itm14CbP/nbe5-6-1)
+- [일정 관리(trello)](https://trello.com/b/itm14CbP/nbe5-6-1)
 - [데모 화면 제작]()  - 추가 필요
 
 ### 개요  
