@@ -5,8 +5,8 @@
 
 ### 링크  
 - [GitHub](https://github.com/prgrms-be-devcourse/NBE5-6-1-Team03)  
-- [API 명세서](#) - 추가 필요
-- [일정 관리](#)  - 추가 필요
+- [일정 관리](https://trello.com/b/itm14CbP/nbe5-6-1)
+- [데모 화면 제작]()  - 추가 필요
 
 ### 개요  
 로컬 카페 **“Grids & Circles”**의 원두 메뉴를 온라인으로 관리하고 주문받을 수 있는 **웹 기반 주문 관리 시스템**입니다.  
