@@ -52,6 +52,9 @@
   <br>
 </div>
 
+<h3>🔗 Link</h3>
+<a href="https://www.notion.so/25d9c512d834804d8a2ddbb0f6019d81">포트폴리오</a>
+
 <h3>💻 Experience</h3>
 - Programmers Devcourse 5th – Backend Track (2025.02 ~ 2025.08)  <br>
 - IBM Korea – System Engineer (2020.12 ~ 2024.08)  
