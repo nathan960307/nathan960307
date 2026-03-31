@@ -7,9 +7,9 @@
   <code style="color: gray; font-size: 18px;">Nya~</code>
 </div><br> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/user-attachments/assets/d6976600-796b-4c6c-bcd0-2a2761313bf1" width="200"/>
-</div>
+</div> -->
 
 <div align="center">
   <code style="color: gray; font-size: 18px;">Nathan kim</code>
