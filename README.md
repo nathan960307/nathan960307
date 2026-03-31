@@ -65,24 +65,27 @@
 <table>
   <tr>
     <td align="center" width="300" valign="top">
-      <b>🍵 카페 메뉴 관리</b>
+      <b>구독 서비스 관리 </b>
       <p>
-        <a href="https://github.com/nathan960307/nathan960307/tree/main/project-readme/cafe-menu">보기</a>
+        <a href="https://github.com/nathan960307/subscription-manager-auth">Auth</a>/
+        <a href="https://github.com/nathan960307/subscription-manager-business">Business</a>
       </p>
       <hr>
-      로컬 카페 메뉴 주문/관리 웹 서비스
+      구독 서비스 관리 서비스
       <br>
-      <sub>2025.04.22 → 2025.04.28</sub>
-      <br><br>
+      <sub>2026.03 ~ 진행중</sub>
+      <br>
       <hr>
       <!-- 기술 스택 -->
       <p>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MyBatis-005B9F?style=flat"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MyBatis-005B9F?style=flat"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
       </p>
     </td>
     <td align="center" width="300" valign="top">
